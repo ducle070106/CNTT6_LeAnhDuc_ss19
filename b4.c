@@ -107,7 +107,6 @@ void timKiemPhanTu(int *arr, int n) {
     int value;
     printf("Nhap gia tri can tim: ");
     scanf("%d", &value);
-
     bool found = false;
     for (int i = 0; i < n; i++) {
         if (*(arr + i) == value) {
