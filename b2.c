@@ -1,0 +1,1 @@
+// Nội dung của file b2.c
